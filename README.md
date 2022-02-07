@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzotecchia
-- 👀 I’m interested in ... Python Programmin
-- 🌱 I’m currently learning ...Physics and data analisis 
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ...C programming
 - 📫 How to reach me ...l.tecchia@studenti.unina.it only on thursdays
 
 <!---
