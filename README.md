@@ -12,6 +12,6 @@
 
 
 
-**![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzotecchia&count_private=true)**
+**![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzotecchia&count_private=true&theme=dracula)**
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotecchia&layout=compact&PATH_1=token_intelligente)](https://github.com/lorenzotecchia/github-readme-stats)**
 
