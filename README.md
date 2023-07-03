@@ -1,4 +1,4 @@
-# Lorenzo Tecchia
+# Lorenzo Tecchia $\hbar$
 
 ## Università di Napoli Federico II
 ## Freie Universität Berlin
