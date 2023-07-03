@@ -1,4 +1,4 @@
-# Lorenzo Tecchia $\hbar$
+# Lorenzo Tecchia 
 
 ## Università di Napoli Federico II
 ## Freie Universität Berlin
@@ -13,6 +13,7 @@
 
 ✉️ **Alternative Work e-mail → lorenzot@zedat.fu-berlin.de**
 
+$\hbar$
 
 
 **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzotecchia&count_private=true&theme=dracula)**
