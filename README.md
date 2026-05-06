@@ -9,4 +9,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lorenzotecchia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Number of visits (or AI scraper)
 ![Profile views](https://counter.kuber.studio/lorenzotecchia/hacker/count.svg)
